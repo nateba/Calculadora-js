@@ -1,0 +1,47 @@
+h1 {
+    border-radius: 0.3125rem;
+    text-align: center;
+    max-width: 62.125rem;
+    margin-left: 0.3125rem;
+    margin-top: 1.25rem;
+    background-color: rgb(179, 118, 194);
+    text-decoration: underline;
+    text-shadow: 0.125rem 0.125rem 0.625rem rgb(72, 67, 77);
+
+}
+
+#calculadora {
+    max-width: 62.5rem;
+    min-width: 6.25rem;
+    border-radius: 1.875rem;
+}
+
+#calculadora .card-header {
+    background-color: rgb(156, 79, 150);
+}
+
+#calculadora .card-body {
+    background-image: url(galaxia2.jpg);
+
+}
+
+#calculadora #display {
+    text-align: right;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 3.75rem;
+    color: white;
+}
+
+#calculadora button {
+    margin: 0.3125rem;
+    height: 4.0625rem;
+
+}
+
+
+#calculadora .button-text {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 1.875rem;
+}
